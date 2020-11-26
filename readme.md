@@ -15,3 +15,7 @@ SW side block diagram:
 
 Vesti FM (MW mirror) channel received on 1413 kHz at night (all the way through the Black Sea!):
 ![(download WAV file)](https://github.com/fyazici/max1k-sdr-sw/raw/master/wav/audio1413000.wav)
+
+TODO:
+- AM carrier recovery and tracking
+- Waterfall spectrum view
