@@ -3,7 +3,7 @@ max1k-sdr-sw
 
 PC Tuning and Demodulation software of MAX1k mini-SDR project 
 
-Have a look at the RTL and RF side here: [https://github.com/fyazici/mak1k-sdr-rtl](https://github.com/fyazici/mak1k-sdr-rtl)
+Have a look at the RTL and RF side here: [https://github.com/fyazici/max1k-sdr-rtl](https://github.com/fyazici/max1k-sdr-rtl)
 
 Software side of the MAX1k mini-SDR project consists of a few Python files. The `SerialPipe` communicates with the USB UART device, sends configuration commands and receives sample packets. Incoming samples are unpacked, COBS-decoded and sent over the stdout pipe.
 
